@@ -1,0 +1,4 @@
+baseURL = 'https://jadincross.io/'
+languageCode = 'en-us'
+title = 'Jadin Cross'
+theme = "LoveIt"
